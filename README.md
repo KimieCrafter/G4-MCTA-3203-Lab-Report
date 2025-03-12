@@ -21,6 +21,7 @@ Matric Number: 2213217
 Mini Project: Washing Machine protoype 
 
 That cooperate with 2 System, 
- System1 : Master Slave communication for main operation
- System2 : Cloth color Detector 
+
+System1 : Master Slave communication for main operation
+System2 : Cloth color Detector 
 
